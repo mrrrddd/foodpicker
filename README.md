@@ -16,7 +16,7 @@ Python, cousine proposals
 
 * **mrrrddd** - *Initial work* - [mrrrddd](https://github.com/mrrrddd)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/mrrrddd/foodpicker/contributors) who participated in this project.
 
 ## Acknowledgments
 
